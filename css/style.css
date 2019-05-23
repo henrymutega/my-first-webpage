@@ -1,6 +1,10 @@
+body
+{
+  background-color: lightblue;
+}
 h1
 {
-color: #00f;
+color: purple;
 text-align: center;
 }
 h2
